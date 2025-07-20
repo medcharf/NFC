@@ -2,7 +2,7 @@
 
 This Android app demonstrates reading NFC cards using Android's **Reader Mode**. It supports the IsoDep protocol, which is commonly used in smart cards like Thales cards and other contactless payment or access cards.
 
-![App Screenshot](images/nfc_scan.jpeg "NFC Scan in action")
+![App Screenshot](images/scan.jpeg "NFC Scan in action")
 
 ---
 
